@@ -24,8 +24,5 @@
       "confirmPassword": "1234",
       "id": 2
     }
-  ],
-  "api" : {
-    "Gkey" : "asd123"
-  }
+  ]
 }
